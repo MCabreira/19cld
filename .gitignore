@@ -1,0 +1,10 @@
+*.tfstate*
+*.tfvars
+*.terraform/
+*.terraform/*
+*terraform-provider*
+demos/Count/State/S3/.terraform/plugins/linux_amd64/terraform-provider-aws_v2.35.0_x4
+demos/count.tgz
+codigosTeste/*
+codigosTeste/
+*.DS_Store*
